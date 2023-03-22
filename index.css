@@ -1,1 +1,113 @@
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.magnifyingGlass {
+    margin: auto;
+    height: 300px;
+    width: 400px;
+    padding: 10px;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+.bigger {
+    margin: 5px;
+}
+
+.smaller {
+    margin: 5px;
+}
+
+.diceGame {
+    border: 1px solid black;
+    height: 300px;
+    width: 400px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.inputSide {
+    margin: auto;
+}
+
+.resultIs {
+    text-align: center;
+}
+
+.resultNumber {
+    font-size: 40px;
+    text-align: center;
+}
